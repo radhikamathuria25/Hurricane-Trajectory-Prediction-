@@ -1,4 +1,4 @@
-# Hurricane-Trajectory-Prediction-
+# Predicting the Trajectory of Atlantic Hurricanes using Neural Networks
 
 This is the repository for our course project for ECE 228 (Spring 2022) at UC San Diego. 
 
