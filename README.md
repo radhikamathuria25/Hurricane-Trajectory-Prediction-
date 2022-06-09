@@ -16,9 +16,10 @@ The aim of the project is to predict the trajectory of Atlantic hurricanes using
 
 1. Windows/Unix system 
 2. MATLAB 2018a or newer
-3. Python 
-4. Keras
-5. Numpy
+3. MATLAB Mapping Toolbox
+4. Python 
+5. Keras
+6. Numpy
 
 ## Setup
 
