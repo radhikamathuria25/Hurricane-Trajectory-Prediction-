@@ -6,8 +6,8 @@ This is the repository for our course project for ECE 228 (Spring 2022) at UC Sa
 ## Table of contents
 * [Introduction](#Introduction)
 * [Technologies](#technologies)
-* [How to run the code](#how to run the code)
-* [Repository structure](#repository structure)
+* [How to run the code](#how_to_run_the_code)
+* [Repository structure](#repository_structure)
 
 ## Introduction
 
