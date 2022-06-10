@@ -27,3 +27,4 @@ The aim of the project is to predict the trajectory of Atlantic hurricanes using
 ## How to run the code
 
 The model training code is in final_ece228_project_code.ipynb notebook. The notebook can be run cell by cell, the notebook also has blocks of texts to guide with the execution and to understand the flow of the program.
+The code is written in python and matlab. Extra features are calculated in matlab and stored in a file lstm_m.csv which is used in our python notebook.
