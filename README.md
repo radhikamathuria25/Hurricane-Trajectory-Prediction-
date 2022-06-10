@@ -22,6 +22,8 @@ The aim of the project is to predict the trajectory of Atlantic hurricanes using
 5. Keras
 6. Numpy
 
+## Layout
+
 ## How to run the code
 
 
