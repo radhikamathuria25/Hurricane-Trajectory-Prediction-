@@ -47,3 +47,7 @@ lambert.py - This file contains the functions required for transformation of the
 2. Data analysis
 
 This folder contains the notebooks for the exploratory data analysis of our project.
+
+3. Markov Transition Model
+
+This folder contains the code for the generation of the displacment probabilities using markov transition model.
