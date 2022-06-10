@@ -33,7 +33,7 @@ The code is written in python and matlab. Extra features are calculated in matla
 
 The follwing are the main components in the repository:
 
-###dataset
+1. dataset
 
 The dataset is in the follwing repository: https://github.com/Sang555/ece228/tree/main
 
@@ -43,3 +43,7 @@ projection_constants.json - It is the file containing the data required for tran
 
 
 lambert.py - This file contains the functions required for transformation of the latitude and longitude coordinates.
+
+2. Data analysis
+
+This folder contains the notebooks for the exploratory data analysis of our project.
