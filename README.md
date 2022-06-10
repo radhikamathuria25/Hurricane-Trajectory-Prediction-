@@ -6,8 +6,8 @@ This is the repository for our course project for ECE 228 (Spring 2022) at UC Sa
 ## Table of contents
 * [Introduction](#Introduction)
 * [Technologies](#technologies)
-* [Layout](#layout)
 * [How to run the code](#how to run the code)
+* [Repository structure](#repository structure)
 
 ## Introduction
 
@@ -21,8 +21,6 @@ The aim of the project is to predict the trajectory of Atlantic hurricanes using
 4. Python 
 5. Keras
 6. Numpy
-
-## Layout
 
 ## How to run the code
 
