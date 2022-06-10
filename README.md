@@ -6,8 +6,9 @@ This is the repository for our course project for ECE 228 (Spring 2022) at UC Sa
 ## Table of contents
 * [Introduction](#Introduction)
 * [Technologies](#technologies)
-* [Setup](#setup)
-* 
+* [Layout](#layout)
+* [How to run the code](#how to run the code)
+
 ## Introduction
 
 The aim of the project is to predict the trajectory of Atlantic hurricanes using Recurrent Neural Networks. A Markov Transition Model-based M2M LSTM framework is developed for this which predicts the next 5 trajectory points of a hurricane, given it's first 5 points at 6 hour intervals.
@@ -21,6 +22,6 @@ The aim of the project is to predict the trajectory of Atlantic hurricanes using
 5. Keras
 6. Numpy
 
-## Setup
+## How to run the code
 
 
