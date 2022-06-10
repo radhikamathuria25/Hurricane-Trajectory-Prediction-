@@ -32,3 +32,12 @@ The code is written in python and matlab. Extra features are calculated in matla
 ## Repository structure
 
 The follwing are the main components in the repository:
+
+The dataset is in the follwing repository: https://github.com/Sang555/ece228/tree/main
+
+atlantic.csv - It is the main dataset for our problem statement
+lstm_m.csv - It is data generated from matlab which contains the generated features.
+projection_constants.json - It is the file containing the data required for transformation for the coordinates.
+
+
+lambert.py - This file contains the functions required for transformation of the latitude and longitude coordinates.
